@@ -1,1 +1,1 @@
-git is not great
+git is not great gpl
