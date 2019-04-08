@@ -1,1 +1,1 @@
-git is not great gpl update plua sf 1
+git is not great gpl update
